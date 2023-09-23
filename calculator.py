@@ -15,3 +15,4 @@ if a == "%":
     print(x%y)
 if a!="+" and a!="-" and a!="*" and a!="/" :
     print("YOUR ARE AN IDIOT")
+    print()
